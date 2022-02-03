@@ -16,7 +16,7 @@ int main()
 {
   int a,b,c;
   input(&a,&b);
-  add(a,b,&c);
+  add (a,b,&c);
   output(a,b,c);
   return 0;
 }
